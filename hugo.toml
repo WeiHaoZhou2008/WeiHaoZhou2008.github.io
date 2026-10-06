@@ -1,0 +1,48 @@
+baseURL = "https://WeiHaoZhou2008.github.io/"
+languageCode = "zh-cn"
+title = "Chord"
+
+theme = "PaperMod"
+
+[params]
+  author = "Chord"
+  description = "Mathematics · Physics · Thoughts"
+
+  defaultTheme = "auto"
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  math = true
+
+[params.homeInfoParams]
+  Title = "Chord"
+  Content = """
+弦不逐响，凛自成声
+
+Mathematics · Physics · Thoughts
+"""
+[[menu.main]]
+identifier = "math"
+name = "Math"
+url = "/math/"
+weight = 10
+
+[[menu.main]]
+identifier = "physics"
+name = "Physics"
+url = "/physics/"
+weight = 20
+
+[[menu.main]]
+identifier = "essays"
+name = "Essays"
+url = "/essays/"
+weight = 30
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 40
