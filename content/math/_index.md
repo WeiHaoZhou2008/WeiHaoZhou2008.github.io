@@ -1,5 +1,14 @@
-+++
-date = '2026-10-06T15:36:17+08:00'
-draft = true
-title = 'Math'
-+++
+---
+title: "Mathematics"
+---
+
+# Mathematics
+
+Notes on mathematics.
+
+Topics:
+
+- Algebra
+- Topology
+- Geometry
+- Mathematical Structures

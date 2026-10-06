@@ -1,21 +1,34 @@
-+++
-date = '2026-10-06T15:36:19+08:00'
-draft = true
-title = 'About'
-+++
+---
+title: "About"
+---
+
 # About
 
 I am Chorlin.
 
-This website is a personal archive of my exploration
-in mathematics, physics and thoughts.
+This is my personal archive of exploration in mathematics, physics and thoughts.
 
-My interests include:
+## Interests
 
-- Algebra
-- Topology
-- Geometry
+- Mathematics
+  - Algebra
+  - Topology
+  - Geometry
+
 - Mathematical Physics
+  - Quantum Field Theory
+  - Topological Quantum Field Theory
+  - Statistical Physics
+
 - Complex Systems
 
-Here I record my learning notes and ideas.
+## About this site
+
+This website records my learning notes, ideas and reflections.
+
+The purpose is not only to store knowledge,
+but to preserve the process of understanding.
+
+---
+
+弦不逐响，凛自成声

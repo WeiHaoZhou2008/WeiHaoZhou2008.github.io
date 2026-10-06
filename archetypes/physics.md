@@ -3,8 +3,17 @@ title = "{{ replace .File.ContentBaseName "-" " " | title }}"
 date = "{{ .Date }}"
 draft = true
 
-categories = []
+categories = ["Physics"]
+
 tags = []
 
-math = false
+math = true
 +++
+
+## Introduction
+
+
+## Main Content
+
+
+## Conclusion

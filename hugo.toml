@@ -19,16 +19,37 @@ theme = "PaperMod"
 
   math = true
 
-  [params.profileMode]
-    enabled = false
+  env = "production"
 
-[params.homeInfoParams]
-  Title = "Chorlin"
-  Content = """
+
+[params.profileMode]
+  enabled = true
+  title = "Chorlin"
+  subtitle = """
 弦不逐响，凛自成声
 
 Mathematics · Physics · Thoughts
 """
+  imageUrl = "/images/avatar.png"
+  imageTitle = "Chorlin"
+  imageWidth = 160
+  imageHeight = 160
+
+  buttons = [
+    { name = "Mathematics", url = "/math/" },
+    { name = "Physics", url = "/physics/" },
+    { name = "Essays", url = "/essays/" }
+  ]
+
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/WeiHaoZhou2008"
+
+[[params.socialIcons]]
+  name = "link"
+  url = "https://www.zhihu.com/people/martin-87-32"
+
 
 [[menu.main]]
 identifier = "math"
@@ -36,11 +57,13 @@ name = "Mathematics"
 url = "/math/"
 weight = 10
 
+
 [[menu.main]]
 identifier = "physics"
 name = "Physics"
 url = "/physics/"
 weight = 20
+
 
 [[menu.main]]
 identifier = "essays"
@@ -48,8 +71,27 @@ name = "Essays"
 url = "/essays/"
 weight = 30
 
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 40
+
+
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 40
+weight = 50
+
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 60
+
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
