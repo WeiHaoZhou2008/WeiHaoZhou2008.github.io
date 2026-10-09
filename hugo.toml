@@ -1,11 +1,11 @@
 baseURL = "https://weihaozhou2008.github.io/"
 languageCode = "zh-cn"
-title = "Chorlin"
+title = "秋凛离弦"
 
 theme = "PaperMod"
 
 [params]
-  author = "Chorlin"
+  author = "秋凛离弦"
   description = "Mathematics · Physics · Thoughts"
 
   defaultTheme = "auto"
@@ -24,14 +24,14 @@ theme = "PaperMod"
 
 [params.profileMode]
   enabled = true
-  title = "Chorlin"
+  title = "秋凛离弦"
   subtitle = """
 弦不逐响，凛自成声
 
 Mathematics · Physics · Thoughts
 """
   imageUrl = "/images/avatar.png"
-  imageTitle = "Chorlin"
+  imageTitle = "秋凛离弦"
   imageWidth = 160
   imageHeight = 160
 

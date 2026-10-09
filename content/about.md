@@ -4,7 +4,7 @@ title: "About"
 
 # About
 
-I am Chorlin.
+I am 秋凛离弦.
 
 This is my personal archive of exploration in mathematics, physics and thoughts.
 
