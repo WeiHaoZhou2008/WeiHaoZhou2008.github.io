@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mathematics on Chorlin</title><link>https://weihaozhou2008.github.io/math/</link><description>Recent content in Mathematics on Chorlin</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://weihaozhou2008.github.io/math/index.xml" rel="self" type="application/rss+xml"/><item><title>射影几何笔记</title><link>https://weihaozhou2008.github.io/math/geometry/%E5%B0%84%E5%BD%B1%E5%87%A0%E4%BD%95%E7%AC%94%E8%AE%B0/</link><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><guid>https://weihaozhou2008.github.io/math/geometry/%E5%B0%84%E5%BD%B1%E5%87%A0%E4%BD%95%E7%AC%94%E8%AE%B0/</guid><description>&lt;h3 id="单比"&gt;单比&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mathematics on Chorlin</title><link>https://weihaozhou2008.github.io/math/</link><description>Recent content in Mathematics on Chorlin</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://weihaozhou2008.github.io/math/index.xml" rel="self" type="application/rss+xml"/><item><title>射影几何笔记</title><link>https://weihaozhou2008.github.io/math/geometry/projective-geometry/</link><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><guid>https://weihaozhou2008.github.io/math/geometry/projective-geometry/</guid><description>&lt;h3 id="单比"&gt;单比&lt;/h3&gt;
 &lt;p&gt;共线三点 $A, B, C$ 的单比定义为：&lt;/p&gt;
 &lt;p&gt;$$
 (ABC) = \frac{AB}{BC}
@@ -10,7 +10,7 @@ $$&lt;/p&gt;
 (P_1P_2, P_3P_4) = \frac{(P_1P_2P_3)}{(P_1P_2P_4)} = \frac{P_1P_3 \cdot P_2P_4}{P_1P_4 \cdot P_2P_3}
 $$&lt;/p&gt;
 &lt;p&gt;其中 $P_1, P_2$ 称为&lt;strong&gt;基点偶&lt;/strong&gt;，$P_3, P_4$ 称为&lt;strong&gt;分点偶&lt;/strong&gt;，$P_iP_j$ 为有向线段。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="四点共线" loading="lazy" src="https://weihaozhou2008.github.io/math/geometry/%E5%B0%84%E5%BD%B1%E5%87%A0%E4%BD%95%E7%AC%94%E8%AE%B0/%E5%9B%9B%E7%82%B9%E5%85%B1%E7%BA%BF.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading="lazy" src="https://weihaozhou2008.github.io/math/geometry/projective-geometry/cross-ratio.jpg"&gt;&lt;/p&gt;
 &lt;h3 id="交比的符号性质"&gt;交比的符号性质&lt;/h3&gt;
 &lt;p&gt;不难验证，当点偶 $P_1P_2$ 与 $P_3P_4$ &lt;strong&gt;分离&lt;/strong&gt;时，交比 $&amp;lt; 0$；当它们&lt;strong&gt;不分离&lt;/strong&gt;（共存&amp;hellip;&lt;/p&gt;
 &lt;p&gt;由定义，立刻得出如下性质：&lt;/p&gt;
